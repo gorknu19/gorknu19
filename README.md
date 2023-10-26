@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gorknu19?tab=repositories](https://github.com/gorknu19?tab=repositories)
 
-- 💬 Ask me about **Nextjs**
-
 - 📫 How to reach me **goran.knutsen@iris-salten.no**
 
 - ⚡ Fun fact **i dont like css**
