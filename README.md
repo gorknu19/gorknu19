@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorknu19&label=Profile%20views&color=0e75b6&style=flat" alt="gorknu19" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/FlyN-Nick/hacked-github-stat-trophies)"><img src="https://github-profile-trophy.vercel.app/?username=gorknu19" alt="gorknu19" /></a> </p>
+<p align="left"> <a href="https://github.com/FlyN-Nick/hacked-github-stat-trophies"><img src="https://github-profile-trophy.vercel.app/?username=gorknu19" alt="gorknu19" /></a> </p>
 
 - 🔭 I’m currently working on **AMCS**
 
