@@ -4,17 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorknu19" alt="gorknu19" /></a> </p>
 
-- 🔭 I’m currently working on **AMCS**
+- 🔭 I’m currently working on **AMCS Integration**
 
 - 🌱 I’m currently learning **PM2**
 
-- 👯 I’m looking to collaborate on **nextjs projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/gorknu19?tab=repositories](https://github.com/gorknu19?tab=repositories)
-
 - 📫 How to reach me **goran.knutsen@iris-salten.no**
 
-- ⚡ Fun fact **i dont like css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
