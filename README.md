@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AMCS Integration**
 
-- 🌱 I’m currently learning **PM2**
+- 🌱 I’m currently learning **React-Native**
 
 - 📫 How to reach me **goran.knutsen@iris-salten.no**
 
